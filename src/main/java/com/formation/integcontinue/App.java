@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Bonjour Tout Le Monde!" );
+        System.out.println( "Jenkins Pipeline!" );
     }
 }
